@@ -6,4 +6,6 @@ THIS FILE TO MANAGE ALL EXPENSES
  gas
  household items
  electric bill
-
+ fuel
+ game
+ 
