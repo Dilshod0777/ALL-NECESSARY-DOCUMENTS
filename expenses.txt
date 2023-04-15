@@ -4,3 +4,6 @@ THIS FILE TO MANAGE ALL EXPENSES
  food cost
  phone bill
  gas
+ household items
+ electric bill
+
