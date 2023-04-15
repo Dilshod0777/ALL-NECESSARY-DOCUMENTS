@@ -1,0 +1,6 @@
+THIS FILE TO MANAGE ALL EXPENSES
+
+ rent 
+ food cost
+ phone bill
+ gas
