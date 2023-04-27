@@ -8,4 +8,7 @@ THIS FILE TO MANAGE ALL EXPENSES
  electric bill  210
  fuel      300
  game      50
-
+ travel 1200
+ flowers 50
+ additional exp  400
+ 
