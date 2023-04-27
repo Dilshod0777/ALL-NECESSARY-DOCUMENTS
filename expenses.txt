@@ -4,8 +4,8 @@ THIS FILE TO MANAGE ALL EXPENSES
  food cost 1200
  phone bill  220
  gas    155
- household items
- electric bill
- fuel
- game
+ household items 870
+ electric bill  210
+ fuel      300
+ game      50
  
