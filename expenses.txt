@@ -1,9 +1,9 @@
 THIS FILE TO MANAGE ALL EXPENSES
 
- rent 
- food cost
- phone bill
- gas
+ rent    2850
+ food cost 1200
+ phone bill  220
+ gas    155
  household items
  electric bill
  fuel
