@@ -8,4 +8,4 @@ THIS FILE TO MANAGE ALL EXPENSES
  electric bill  210
  fuel      300
  game      50
- 
+
