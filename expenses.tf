@@ -1,8 +1,8 @@
 THIS FILE TO MANAGE ALL EXPENSES
 
- rent 
- food cost
- phone bill
+ rent     2000
+ food cost  1000
+ phone bill  1440
  gas
  household items
  electric bill
